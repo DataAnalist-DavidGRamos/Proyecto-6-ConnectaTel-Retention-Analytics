@@ -128,7 +128,7 @@ pip install pandas numpy matplotlib seaborn
 5. Ejecuta las celdas en orden secuencial (Runtime → Run all)
 
 ## Estructura del Repositorio
-
+```
 📦 Proyecto-6-ConnectaTel-Retention-Analytics
  ┣ 📂 img
  ┃ ┣ 🖼️ segmentacion_uso.png       → Countplot grupo_uso por plan
@@ -136,7 +136,7 @@ pip install pandas numpy matplotlib seaborn
  ┃ ┗ 🖼️ distribucion_edad.png      → Histograma edad por plan
  ┣ 📓 S7_Version-Estudiante-Project-ConnectaTel_corregido.ipynb
  ┗ 📋 README.md                    → Este archivo
-
+```
 ## Autor
 
 David Germán Ramos Rodríguez
